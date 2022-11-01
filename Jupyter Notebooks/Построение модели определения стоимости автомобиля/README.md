@@ -12,3 +12,7 @@
 - :zap: `CatBoostRegressor` - ансамбль моделей решающих деревьев (градиентный бустинг);
 - :zap: `XGBRegressor` - ансамбль моделей решающих деревьев (градиентный бустинг);
 - :zap: `TPOTSAutoML` - алгоритм оптимизации моделей AutoML.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>

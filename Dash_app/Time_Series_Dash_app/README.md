@@ -7,7 +7,7 @@
 - `functions.py` - файл с пользовательскими функциями;
 - `requirements.txt` - файл зависимостей в приложении.
 
-
+| Тема SOLAR | Тема MURPH |
 |-------------------------------------|-------------------------------------|
 | ![](/assets/preview_tsa_dash_1.png) | ![](/assets/preview_tsa_dash_1.png) |
 | ![](/assets/preview_tsa_dash_1.png) | ![](/assets/preview_tsa_dash_1.png) |

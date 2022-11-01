@@ -15,4 +15,4 @@
   - `LGBMRegressor`;
   - `XGBRegressor`;
   - `TPOTRegressor`;
-- визуализация анализа временного ряда с библиотекой `Plotly.express`, `Plotly.graph_objs`.
+- :zap: визуализация анализа временного ряда с библиотекой `Plotly.express`, `Plotly.graph_objs`.

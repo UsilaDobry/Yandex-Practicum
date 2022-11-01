@@ -5,3 +5,7 @@
 - :zap: визуализация с бибилиотекой `Matplotlib`, `Seaborn`;
 - :zap: постановка и проверка статистических гипотез с помощью статистического метода `t-test`;
 - :zap: оценка выборки и точность опыта посредством расчета относительной ошибки выборки.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>

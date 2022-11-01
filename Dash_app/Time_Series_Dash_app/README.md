@@ -9,7 +9,7 @@
 
 | Тема SOLAR | Тема MURPH |
 |-------------------------------------------|-------------------------------------------|
-| ![](/assets/preview_tsa_dash_3_solar.png) | ![](/assets/preview_tsa_dash_3_mutph.png) |
+| ![](/assets/preview_tsa_dash_3_solar.png) | ![](/assets/preview_tsa_dash_3_murph.png) |
 | ![](/assets/preview_tsa_dash_4_solar.png) | ![](/assets/preview_tsa_dash_4_murph.png) |
 | ![](/assets/preview_tsa_dash_6_solar.png) | ![](/assets/preview_tsa_dash_6_murph.png) |
 

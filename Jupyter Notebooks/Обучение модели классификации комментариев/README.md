@@ -12,4 +12,5 @@
   - `CatBoostClassifier`;
 - :zap: оптимизация гиперпараметров `CatBoostClassifier`;
 - :zap: знакомство с библиотекой `Transformers`;
-- :zap: преобразование текстов данных в `embeddings with BERT`.
+- :zap: преобразование текстов данных в `embeddings with BERT`;
+- :zap: использование предобученной модели глубокого обучения из семейства `BERT` в NLP.

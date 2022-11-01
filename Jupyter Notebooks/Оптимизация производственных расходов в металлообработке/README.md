@@ -4,3 +4,6 @@
 - :zap: знакомство с технологическим процессом в сталелетейном производстве;
 - :zap: составление полного итогового отчета по исследованию.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>

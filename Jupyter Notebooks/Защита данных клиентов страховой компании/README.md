@@ -53,3 +53,6 @@
      
      $$a_t = X*E (X^TX)^{-1} E*X^T y = X(X^TX)^{-1}X^T y = X*w = a$$
    
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>

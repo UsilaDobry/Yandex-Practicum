@@ -4,7 +4,7 @@
 
 | Название проекта | Спринт | Направление деятельности | Навыки и инструменты |
 |------------------|--------|--------------------------|----------------------|
-| Определение выгодного тарифа для телеком компании (`Statistical_Data_Analisys_Dash_app`) | Статистический анализ данных | Маркетинг-Аналитик, Data-Analist, Fraud-Analist | `Python`, `Pandas`, `Matplotlib`, `Scipy`, `Numpy`, `описательная статистика`, `проверка статистических гипотез` |
+| Классификация клиентов телеком компании (`Introduction_to_Machine_Learning_Dash_app`) | Введение в машинное обучение | Машинное обучение, классификация | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
 | Прогнозирование количества заказов такси на следующий час (`Time_Series_Dash_app`) ![](/assets/preview_tsa_dash_1.png) | Временные ряды | Машинное обучение | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels` |
 | Обучение модели классификации комментариев (`Natural_Language_Processing_Dash_app`) | ML для текстов | NLP, машинное обучение | `Python`, `Pandas`, `NLTK`, `ti-idf`, `BERT` |
 

@@ -3,3 +3,6 @@
 ## :hammer_and_wrench: Проект запомнился следующими навыками и инрструментами:
 - :zap: построение различных срезов и визуализаций для анализа данных.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>

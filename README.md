@@ -4,7 +4,7 @@
 
 | Название проекта | Навыки и инструменты |
 |------------------|----------------------|
-| [Классификация клиентов телеком компании](#Jupyter Notebooks/Классификация клиентов телеком компании/Introduction_to_Machine_Learning) (`Introduction_to_Machine_Learning_Dash_app`) | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
+| [Классификация клиентов телеком компании](#Introduction_to_Machine_Learning) (`Introduction_to_Machine_Learning_Dash_app`) | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
 | Прогнозирование количества заказов такси на следующий час (`Time_Series_Dash_app`) | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels` |
 | Обучение модели классификации комментариев (`Natural_Language_Processing_Dash_app`) | `Python`, `Pandas`, `NLTK`, `ti-idf`, `BERT` |
 

@@ -4,7 +4,7 @@
 
 | Название проекта | Навыки и инструменты |
 |------------------|----------------------|
-| [Классификация клиентов телеком компании](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/Классификация%20клиентов%20телеком%20компании "Ссылка на проект") (`Introduction_to_Machine_Learning_Dash_app`) | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
+| [Классификация клиентов телеком компании](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/Классификация%20клиентов%20телеком%20компании "Ссылка на проект Jupyter Notebooks") ([`Introduction_to_Machine_Learning_Dash_app`]()) | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
 | [Прогнозирование количества заказов такси на следующий час](#Time_Series) (`Time_Series_Dash_app`) | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels` |
 | [Обучение модели классификации комментариев](#Natural_Language_Processing) (`Natural_Language_Processing_Dash_app`) | `Python`, `Pandas`, `NLTK`, `ti-idf`, `BERT` |
 

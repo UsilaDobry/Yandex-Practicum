@@ -1,4 +1,4 @@
-<a id='#'></a>
+<a id='#Introduction_to_Machine_Learning'></a>
 ## :man_technologist: Задача проекта
 *На основе данных предложить клиенту тариф.*
 ## :hammer_and_wrench: Проект запомнился следующими навыками:

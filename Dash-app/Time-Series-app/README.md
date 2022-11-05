@@ -11,4 +11,5 @@
 
 |          Тема `BOOTSTRAP: SOLAR`       |          Тема `BOOTSTRAP: MURPH`         |
 |----------------------------------------|------------------------------------------|
-| ![Вид: Общая тенденция](https://github.com/UsilaDobry/Yandex-Practicum/blob/main/Dash-app/assets/preview-Time-Series-app/preview_tsa_dash_1_solar.png)
+| ![Вид: Общая тенденция](https://github.com/UsilaDobry/Yandex-Practicum/blob/main/Dash-app/assets/preview-Time-Series-app/preview_tsa_dash_1_solar.png) | ![Вид: Общая тенденция](https://github.com/UsilaDobry/Yandex-Practicum/blob/main/Dash-app/assets/preview-Time-Series-app/preview_tsa_dash_1_murph.png) |
+

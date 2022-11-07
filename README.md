@@ -6,7 +6,7 @@
 |------------------|----------------------|
 | [Классификация клиентов телеком компании](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/Introduction%20to%20ML "Ссылка на проект Jupyter Notebooks") | `Python`, `Pandas`, `Matplotlib`, `Scikit-learn` |
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/Time%20series "ссылка на проект Jupyter Notebooks") | `Python`, `Pandas`, `Scikit-learn`, `Statsmodels` |
-| [Обучение модели классификации комментариев](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/Обучение%20модели%20классификации%20комментариев "Ссылка на проект Jupyter Notebooks") | `Python`, `Pandas`, `NLTK`, `ti-idf`, `BERT` |
+| [Обучение модели классификации комментариев](https://github.com/UsilaDobry/Yandex-Practicum/tree/main/Jupyter%20Notebooks/NLP "Ссылка на проект Jupyter Notebooks") | `Python`, `Pandas`, `NLTK`, `ti-idf`, `BERT` |
 
 
 
